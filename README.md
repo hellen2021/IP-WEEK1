@@ -3,6 +3,7 @@
 
 **Assessment**
 **Part 1: Career Planning**
+
 Overview
 
 In this part of the assessment, you will be required to write a career development plan for your data science career. This will involve recording, reflecting, tracking, planning and reviewing the steps that you will take for the next five years of your data science career. Your career plan can take into account of any career path that you would want to undertake i.e. employment, entrepreneurship, consulting, etc.
@@ -15,19 +16,20 @@ Use the following naming convention for the above Google Docs Document.
 Have the above document put in one folder that you will submit together with the other deliverables of this Independent Project.
 
 **Part 2: Python Programming**
+
 Overview
 
 During this week, you also started learning how as a Data Scientist, you will be required to write programs that perform python computations.
 
 In this section, you will be required to create several python programs that should be able to perform the given operations then, display the results of the operations.
 
-Take in two values from a user (both in pounds) then convert those values to kilograms.
-Perform the sum of the values.
-Perform the average of the values.
-Find the difference between both values.  
-Find the quotient when one value is divided by the other.
-Determine and print out whether any of the numbers are even or add.
-Have comments applied appropriately.
+1)Take in two values from a user (both in pounds) then convert those values to kilograms.
+2)Perform the sum of the values.
+3)Perform the average of the values.
+4)Find the difference between both values.  
+5)Find the quotient when one value is divided by the other.
+6)Determine and print out whether any of the numbers are even or add.
+7)Have comments applied appropriately.
 
 Deliverable
 You will create a Colaboratory Notebook that will contain your responses to the above questions.
