@@ -68,9 +68,11 @@ The glossary for this table is as follows:
 
 **Deliverable**
 
-You will create an Colaboratory Notebook that will contain your responses to the above questions.
+**You will create an Colaboratory Notebook that will contain your responses to the above questions.
 Use the following naming convention for the above Notebook:
 "Moringa_Data_Science_Prep_W1_Independent_Project_2019_06_FirstName_LastName_SQL_Notebook"
 All questions, text responses, SQL queries should be included in the Notebook.
 Do not clear your Notebook consoles upon completion of this deliverable.
-Put the file(s) in one folder then follow the given instructions to make the submission. 
+Put the file(s) in one folder then follow the given instructions to make the submission.** 
+  
+  
