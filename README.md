@@ -2,12 +2,12 @@
 **Moringa Data Science
 
 **Assessment
-<h3> Part 1: Career Planning <h3>
+**<h3> Part 1: Career Planning <h3>
 Overview**
-**
+
 In this part of the assessment, you will be required to write a career development plan for your data science career. This will involve recording, reflecting, tracking, planning and reviewing the steps that you will take for the next five years of your data science career. Your career plan can take into account of any career path that you would want to undertake i.e. employment, entrepreneurship, consulting, etc.
-**
-Deliverable**
+
+**Deliverable**
 
 You will be required to provide a write up (Google Docs Document) outlining your Data Science career plan. You can use the learnings from this week’s sessions.
 Use the following naming convention for the above Google Docs Document.
@@ -41,8 +41,8 @@ Overview
 
 In this section, you will act as a Data Science Consultant who will answer questions posed using a dataset collected by Dalberg. The dataset contains crops grown in Uganda.
 
-******<h3>Part 3: SQL Programming Questions**<h3>**
-**
+**<h3>Part 3: SQL Programming Questions**<h3>**
+
 1. Display a list of Sub Counties and their population and areas.
 2. Sort the list of districts by total crop area (descending order).
 3. Select only the Sub counties from the Moroto district, order them alphabetically and show their production of sorghum.
@@ -53,7 +53,7 @@ In this section, you will act as a Data Science Consultant who will answer quest
 
 **Dataset Description**
 
-This dataset contains yield and population per subcounty.  The dataset for the above questions can be found here. [Link (Links to an external site.)]. 
+This dataset contains yield and population per subcounty.  The dataset for the above questions can be found here. [Link (https://drive.google.com/a/moringaschool.com/file/d/1pWXDvs33OoULTH4kdzhGTUxJmp0dSgZq/view?usp=sharing)]. 
 
 The glossary for this table is as follows:
 
@@ -66,7 +66,7 @@ The glossary for this table is as follows:
 --S_Prod_Tot: total productivity for the sorghum for the subcounty (Kg)
 --M_Prod_Tot: total productivity for the maize for the subcounty (Kg)
 
-**Deliverable****
+**Deliverable**
 
 You will create an Colaboratory Notebook that will contain your responses to the above questions.
 Use the following naming convention for the above Notebook:
